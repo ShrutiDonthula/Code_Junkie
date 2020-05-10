@@ -1,0 +1,90 @@
+[
+    {
+        "1": "Select the reserved keyword in python",
+        "2": "Which of the following symbols are used for comments in Python?",
+        "3": "Are nested if-else are allowed in Python?",
+        "4": "Which keyword is used to define methods in Python?",
+        "5": "Python allows string slicing. What is the output of below code:\ns='cppbuzz chicago'\nprint(s[3:5])5)\n",
+        "6": "How to find the last element of list in Python?\n Assume `bikes` is the name of list.",
+        "7": "If a='cpp', b='buzz' then which of the following operation would show 'cppbuzz' as output?",
+        "8": "class test:\n   def __init__(self):\n      print \"Hello World\"\n   def __init__(self):\n      print \"Bye World\"\nobj=test()\n",
+        "9": "Which function finds out the Variable type in Python ?",
+        "10": "The format function, when applied on a string returns :"
+    },
+    {
+        "1": {
+            "a": "else",
+            "b": "import",
+            "c": "raise",
+            "d": "All of these"
+        },
+
+        "2": {
+            "a": "//",
+            "b": "''",
+            "c": "/**/",
+            "d": "#"
+        },
+
+        "3": {
+            "a": "Yes",
+            "b": "no",
+            "c": "a",
+            "d": "b"
+        },
+        "4": {
+            "a": "function",
+            "b": "def",
+            "c": "method",
+            "d": "All of these"
+        },
+        "5": {
+            "a": "Pbuzz",
+            "b": "buzzc",
+            "c": "bu",
+            "d": "None of these"
+        },
+        "6": {
+            "a": "bikes[0]",
+            "b": "bikes[-1]",
+            "c": "bikes[lpos]",
+            "d": "bikes[:-1]"
+        },
+        "7": {
+            "a": "a+b",
+            "b": "a+''+b",
+            "c": "a+\"\"+b",
+            "d": "All of the above"
+        },
+        "8": {
+            "a": "HelloWorld",
+            "b": "CompilationError",
+            "c": "ByeWorld",
+            "d": "Ambiguity"
+        },
+         "9": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "10": {
+            "a": "list",
+            "b": "bool",
+            "c": "int",
+            "d": "str"
+        }
+    },
+    {
+        "1": "All of these",
+        "2": "#",
+        "3": "Yes",
+        "4": "def",
+        "5": "bu",
+        "6": "bikes[-1]",
+        "7": "All of the above",
+        "8": "ByeWorld",
+        "9": "type",
+        "10": "str"
+    }
+]
